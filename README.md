@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
-</h1>
+
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -42,17 +40,22 @@ Rocket.Q is a platform of questions in private rooms with password to enter, the
 Download this repositorie and with your teminal, enter in the directory
 
 1. Run the command  to install the dependencies
-"
+
+'
 npm install
-"
-2. After, run the command `npm run init-db` to install the database
-"
+'
+
+2. After, run the command  to install the database
+
+'
 npm run init-db
-"
-3. And to start the application, run the command `npm start` 
-"
+'
+
+3. And to start the application, run the command 
+
+'
 npm start 
-"
+'
 
 ## 🔖 Layout
 
