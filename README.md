@@ -41,21 +41,21 @@ Download this repositorie and with your teminal, enter in the directory
 
 1. Run the command  to install the dependencies
 
-'
+```bash
 npm install
-'
+```
 
 2. After, run the command  to install the database
 
-'
+```bash
 npm run init-db
-'
+```
 
 3. And to start the application, run the command 
 
-'
+```bash
 npm start 
-'
+```
 
 ## 🔖 Layout
 
