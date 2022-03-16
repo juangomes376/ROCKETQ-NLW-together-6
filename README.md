@@ -1,10 +1,10 @@
 
 
 <p align="center">
-  <a href="#technologies">Tecnologias</a>
-  <a href="#project">Projeto</a>
-  <a href="#dependencias">Dependencias</a>
-  <a href="#layout">Layout</a>
+  <a href="#tecnologias">Tecnologias</a> |
+  <a href="#projeto">Projeto</a>|
+  <a href="#dependencias">Dependencias</a>|
+  <a href="#layout">Layout</a> |
   <a href="#license">Licença</a>
 </p>
 
