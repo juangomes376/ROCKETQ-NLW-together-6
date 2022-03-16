@@ -20,6 +20,10 @@
   <img alt="Rocket.Q" src=".github/capa.png" width="100%">
 </p>
 
+## 💻 Projeto
+
+Rocket.Q é uma plataforma de perguntas em salas privadas com senha para entrar, o administrador da respectiva sala pode verificar as perguntas como lidas ou então apagar. O Rocket.Q pode ser usado por streamers ou palestrantes em eventos para liberar salas para o público fazer perguntas.
+
 ## 🚀 Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
@@ -34,7 +38,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Dependencias 
 
-Para poder executar o projeto e nessesario ter instalado o npm/node que no linux pode ser instalado com o sequinte comando .
+Para poder executar o projeto e necessário ter instalado o npm/node que no linux pode ser instalado com o sequinte comando.
 
  - Ubuntu
 
@@ -53,10 +57,6 @@ Para poder executar o projeto e nessesario ter instalado o npm/node que no linux
 ```bash
    apt-get install -y nodejs
 ```
-
-## 💻 Projeto
-
-Rocket.Q é uma plataforma de perguntas em salas privadas com senha para entrar, o administrador da respectiva sala pode verificar as perguntas como lidas ou então apagar. O Rocket.Q pode ser usado por streamers ou palestrantes em eventos para liberar salas para o público fazer perguntas.
 
 ## Como usar?
 
