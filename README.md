@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#dependencias">Dependencias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">Licença</a>
+  <a href="#technologies">Tecnologias</a>
+  <a href="#project">Projeto</a>
+  <a href="#dependencias">Dependencias</a>
+  <a href="#layout">Layout</a>
+  <a href="#license">Licença</a>
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
   <img alt="Rocket.Q" src=".github/capa.png" width="100%">
 </p>
 
-## 💻 Projeto
+## Projeto
 
 Rocket.Q é uma plataforma de perguntas em salas privadas com senha para entrar, o administrador da respectiva sala pode verificar as perguntas como lidas ou então apagar. O Rocket.Q pode ser usado por streamers ou palestrantes em eventos para liberar salas para o público fazer perguntas.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -80,11 +80,11 @@ npm run init-db
 npm start 
 ```
 
-## 🔖 Layout
+## Layout
 
 Você pode ver o layout do projeto em [neste link](https://www.figma.com/community/file/1009821158959690135).É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## Licença
 
 Este projeto está sob licença do MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
