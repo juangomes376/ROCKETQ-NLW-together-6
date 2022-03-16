@@ -1,10 +1,11 @@
 
 
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-dependencias">Dependencias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-license">Licença</a>
 </p>
 
 <p align="center">
@@ -19,9 +20,9 @@
   <img alt="Rocket.Q" src=".github/capa.png" width="100%">
 </p>
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
@@ -31,27 +32,49 @@ This project was developed with the following technologies:
 - Express
 - SQLite
 
-## 💻 Project
+## Dependencias 
 
-Rocket.Q is a platform of questions in private rooms with password to enter, the administrator of the respective room can check the questions as read or erase then. Rocket.Q can be used by streamers or speakers in events to free rooms to the public make questions.
+Para poder executar o projeto e nessesario ter instalado o npm/node que no linux pode ser instalado com o sequinte comando .
 
-## How to use?
+ - Ubuntu
 
-Download this repositorie and with your teminal, enter in the directory
+```bash
+  curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+```
+```bash
+  sudo apt-get install -y nodejs
+```
 
-1. Run the command  to install the dependencies
+ - Debian (como root)
+
+```bash
+  curl -sL https://deb.nodesource.com/setup_lts.x |  bash -
+```
+```bash
+   apt-get install -y nodejs
+```
+
+## 💻 Projeto
+
+Rocket.Q é uma plataforma de perguntas em salas privadas com senha para entrar, o administrador da respectiva sala pode verificar as perguntas como lidas ou então apagar. O Rocket.Q pode ser usado por streamers ou palestrantes em eventos para liberar salas para o público fazer perguntas.
+
+## Como usar?
+
+Baixe este repositório e com seu terminal, entre no diretório
+
+1. Execute o comando para instalar as dependências
 
 ```bash
 npm install
 ```
 
-2. After, run the command  to install the database
+2. Após, execute o comando para instalar o banco de dados
 
 ```bash
 npm run init-db
 ```
 
-3. And to start the application, run the command 
+3. E para iniciar o aplicativo, execute o comando 
 
 ```bash
 npm start 
@@ -59,11 +82,11 @@ npm start 
 
 ## 🔖 Layout
 
-You can see the layout of the project at [this link](https://www.figma.com/community/file/1009821158959690135). It's necessary have an account at [Figma](https://figma.com) to access it.
+Você pode ver o layout do projeto em [neste link](https://www.figma.com/community/file/1009821158959690135).É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: License
+## :memo: Licença
 
-This project is under MIT license. See the file [LICENSE](.github/LICENSE.md) for more details.
+Este projeto está sob licença do MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
 
