@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <a href="#tecnologias">Tecnologias</a> |
   <a href="#projeto">Projeto</a> |
@@ -28,26 +27,28 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
-## Dependencias 
+## Dependencias
 
 Para poder executar o projeto e necessário ter instalado o npm/node que no linux pode ser instalado com o sequinte comando.
 
- - Ubuntu
+ -Ubuntu
 
 ```bash
   curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 ```
+
 ```bash
   sudo apt-get install -y nodejs
 ```
 
- - Debian (como root)
+ -Debian (como root)
 
 ```bash
   curl -sL https://deb.nodesource.com/setup_lts.x |  bash -
 ```
+
 ```bash
-   apt-get install -y nodejs
+  apt-get install -y nodejs
 ```
 
 ## Como usar?
@@ -66,7 +67,7 @@ npm install
 npm run init-db
 ```
 
-3. E para iniciar o aplicativo, execute o comando 
+3. E para iniciar o aplicativo, execute o comando
 
 ```bash
 npm start 
@@ -79,6 +80,3 @@ Você pode ver o layout do projeto em [neste link](https://www.figma.com/communi
 ## Licença
 
 Este projeto está sob licença do MIT. Veja o arquivo [LICENÇA](.github/LICENSE.md) para mais detalhes.
-
----
-
